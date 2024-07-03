@@ -1,0 +1,76 @@
+[
+    {
+        "img": "01",
+        "title": "ZIELINSKI & ROZEN black vanilla",
+        "price": "3000 руб.",
+        "status": "Новинка",
+        "rating": 5
+    
+    },
+    {
+        "img": "02",
+        "title": "MARC-ANTOINE BARROIS Ganymede",
+        "price": "2500 руб.",
+        "status": "Новинка",
+        "rating": 4
+    },
+    {
+        "img": "03",
+        "title": "JO MALONE Myrrh & Tonka",
+        "price": "3400 руб.",
+        "status": "Новинка",
+        "rating": 5
+    },
+    {
+        "img": "04",
+        "title": "EX NIHILO Fleur Narcotique",
+        "price": "4500 руб.",
+        "status": "Новинка",
+        "rating": 4
+    
+    },
+    {
+        "img": "05",
+        "title": "TOM FORD Lost Cherry",
+        "price": "6000 руб.",
+        "status": "Новинка",
+        "rating": 3
+    },
+    {
+        "img": "01",
+        "title": "ZIELINSKI & ROZEN black vanilla",
+        "price": "3000 руб.",
+        "status": "Новинка",
+        "rating": 5
+    
+    },
+    {
+        "img": "02",
+        "title": "MARC-ANTOINE BARROIS Ganymede",
+        "price": "2500 руб.",
+        "status": "Новинка",
+        "rating": 4
+    },
+    {
+        "img": "03",
+        "title": "JO MALONE Myrrh & Tonka",
+        "price": "3400 руб.",
+        "status": "Новинка",
+        "rating": 5
+    },
+    {
+        "img": "04",
+        "title": "EX NIHILO Fleur Narcotique",
+        "price": "4500 руб.",
+        "status": "Новинка",
+        "rating": 4
+    
+    },
+    {
+        "img": "05",
+        "title": "TOM FORD Lost Cherry",
+        "price": "6000 руб.",
+        "status": "Новинка",
+        "rating": 3
+    }
+]
